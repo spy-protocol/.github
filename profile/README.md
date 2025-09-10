@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/logo.png" alt="SPY Protocol" width="300"/>
+  <img src="logo.png" alt="SPY Protocol" width="300"/>
   
   # SPY Protocol
   
